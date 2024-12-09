@@ -3,7 +3,27 @@
   "WorkspaceRootPath": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|d:\\unitycodegame\\chim bay vuot chuong ngai vat\\assets\\scripts\\backgroundrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|d:\\unitycodegame\\chim bay vuot chuong ngai vat\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|d:\\unitycodegame\\chim bay vuot chuong ngai vat\\assets\\scripts\\listtopscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\listtopscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\assets\\scripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\assets\\scripts\\cotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\assets\\scripts\\spawncontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawncontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\assets\\scripts\\backgroundrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D58AB2DC-A31D-4B61-A329-A239924264B0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListTopScore.cs",
+              "DocumentMoniker": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\ListTopScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ListTopScore.cs",
+              "ToolTip": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\ListTopScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ListTopScore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:12:43.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CotScript.cs",
+              "DocumentMoniker": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\CotScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CotScript.cs",
+              "ToolTip": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\CotScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CotScript.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:44:51.273Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAgwFYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:56:06.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStart.cs",
+              "DocumentMoniker": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\GameStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameStart.cs",
+              "ToolTip": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\GameStart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameStart.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:49:13.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnControllerScript.cs",
+              "DocumentMoniker": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\SpawnControllerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnControllerScript.cs",
+              "ToolTip": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\SpawnControllerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnControllerScript.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:03:18.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BackgroundRun.cs",
               "DocumentMoniker": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\BackgroundRun.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundRun.cs",
               "ToolTip": "D:\\unitycodegame\\Chim bay vuot chuong ngai vat\\Assets\\Scripts\\BackgroundRun.cs",
               "RelativeToolTip": "Assets\\Scripts\\BackgroundRun.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAABVAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T06:00:14.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T06:00:14.489Z"
             }
           ]
         }

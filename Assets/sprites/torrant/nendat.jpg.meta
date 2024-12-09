@@ -1,0 +1,3647 @@
+fileFormatVersion: 2
+guid: 1f2fb8a78b3aaa040bc331ace120bb9a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nendat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06c7cbd560dcf48b58968abdd7bca8
+      internalID: 56495526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44de0ce7a7170d4f94507a95461ac9e
+      internalID: -1103573149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132e4dcad4c6ad345a172d6806641b0d
+      internalID: 2069529009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_3
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545900d5f9ed2d84b821b3f3ff76d8ed
+      internalID: 1542460502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_4
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83eaa555f5538c47b8e01726c9cf8b3
+      internalID: 2014588746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_5
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9881876acde2d548a09415039f92a7b
+      internalID: 1175001591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_6
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49422a5d5c50d74eb7e830ff8044705
+      internalID: 1474998086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_7
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6447a8c8a261f64f9668640d63f8c9d
+      internalID: 1952903357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_8
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b6eda1f41e97c46b9c5b6d15ecdd64
+      internalID: -2042594024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_9
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5646e22cacac4f643962e27d365f1eab
+      internalID: 996640815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_10
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7a99668eae654dafdd9bee621459a
+      internalID: 1689933622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_11
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730c614e8ae041c46b2e69ab250c6032
+      internalID: -769520849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_12
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab33458cc8307443b1a815618a61122
+      internalID: -327134191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_13
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20842a7d03c579e4a98325d94bce1374
+      internalID: -1527648788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_14
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12b25d67aa9bbf47a3bcb7a34a96e2d
+      internalID: 1969022510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_15
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2937.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872e5966122595c4f900f06e8c460cb3
+      internalID: 974992762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db2b1454ccf920479be51344e25dcd4
+      internalID: 1871274254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d790b4bc70f6c904b9f7fecf970d3845
+      internalID: -944095040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_18
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b15566fb984e24d9d24e97b2377e30
+      internalID: 715827217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_19
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd51ba0785caa041a625ca989aea077
+      internalID: 356470537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_20
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f371c09351f2542bb3d8089268962d
+      internalID: 1966067279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_21
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc36fcac411d31c4d96c103367668f1d
+      internalID: 1568198600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_22
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e2988c44d57714f89cf7bfa064db51
+      internalID: -221110499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_23
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d694c065200c5646b78480cfaeccd96
+      internalID: -610761339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_24
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c08e8b9f0e36e4195f9e73539ac87e
+      internalID: -6468912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_25
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae0e40738976f3468d3bbdbae5f3dc6
+      internalID: -1517321404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_26
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31686eaa70f67f4ba22ba8e2b47d0f4
+      internalID: 1862342414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_27
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f05b61567c4cb428993748fb6229eb
+      internalID: 856366352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_28
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f89a575d8cc08f4b8ab61422d2c65d4
+      internalID: -575580232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_29
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad89f88b881c040b4a609d40c2b894
+      internalID: 1063297671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_30
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b994517c81d2409c82f8c3c86308d
+      internalID: 1324147627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_31
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2611.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4997fbf17f980df4d9800791732d26b8
+      internalID: 1774453877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5d5ab7479a9df43a1e03fd49d2b1a2
+      internalID: 2034835631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90e2cfd21359d5408aab53c1b20955e
+      internalID: 42176927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_34
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2b2bffba550d41b5aac28c3672994
+      internalID: -26771142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_35
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81e8046291892e4981f97f117169988
+      internalID: -545251128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_36
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490ac13f4c1ff64287c5d340bd0a28c
+      internalID: 2017734846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_37
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a87018b3f62a54897476da629242f5
+      internalID: 403662454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_38
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2caa863d4994ba4f9e64a9f75482dd5
+      internalID: -1784614889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_39
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bc705b181e9e94aae5e3b55f7f2416
+      internalID: 453160944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_40
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08644a233d74524988fc476add6d22c
+      internalID: 997022008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_41
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf4a156c2385c419087912ff40e90f
+      internalID: -1046305778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_42
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3815f1f7a253c374e818cd3a5476b369
+      internalID: -1178256962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_43
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcfc42b104e4e94aa65ee9e98ae03d8
+      internalID: -124413189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_44
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2229fe6d460b6ae448aa1d22fad39321
+      internalID: -1829479051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_45
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6f236822521d445be7e8e4a91fffbc
+      internalID: -392299490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_46
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6c815550d46343bb18177343fccf2
+      internalID: -2086579139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_47
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2285.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fba9b6a483d2f4ba525cd668b9f6a5
+      internalID: -1472854956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2f1ef3d95747847b62f0a46b6cdfb0
+      internalID: -1846271822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e6018fb187f3408149947467651e8
+      internalID: 97116421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_50
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be3c9454a0db9499619c86b465987a
+      internalID: -671706886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_51
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe3838e339d5fd40ac4d1e2c193f7c5
+      internalID: 1568351106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_52
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd66f8e58a2e42641aa4a79fc1422f85
+      internalID: 1123505037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_53
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d2cfedd7bcbfa4a872263cbc82ae7d
+      internalID: -1445421515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_54
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd817cfba92f34d4fa24123a85cfea72
+      internalID: 1699011472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_55
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82306eb65bea1234890b71e9c426b3c5
+      internalID: -1110122943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_56
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8216a87649c55ef4daef2b283b69771c
+      internalID: 949151870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_57
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53308a60a1e2b564c9d82dfc94b37bc3
+      internalID: 556061790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_58
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad0d90c23570494bbd24c511f8ad589
+      internalID: -232158483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_59
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b72510c700d2429913c5f1ac93a99
+      internalID: -304917512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_60
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d2c4e26747b60408ffb18f0aa72944
+      internalID: 55333253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_61
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8bfea46a1d8b74cbd39205ee400f40
+      internalID: -1260395982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_62
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3595c101c40084ca9daf69a2bb541f
+      internalID: 335692465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_63
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1959.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea56731c2b65548889bab7144c1d6c
+      internalID: 1655387096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bffc345ba111a4897c39d717bcc9ec
+      internalID: 681521012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_65
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f6584a4219cd648b86af85ec4bca4b
+      internalID: -1395902121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_66
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae594451c17752b4199635628a77bd8c
+      internalID: -595336413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_67
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705dc22c1993934aa47f8f067139585
+      internalID: -1239368999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_68
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b9b5e8cc94788478cdadd899fd5e9d
+      internalID: -833554846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_69
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e484df613ab8b9947b607e15067b3d70
+      internalID: 336098638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_70
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f103767a3f9bf9f428930967041f6acf
+      internalID: 1680659002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_71
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435f8defa6cfcb4fb651a5601c1903b
+      internalID: 1885489005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_72
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc78a61e8a5b0e4587d1575b864c492
+      internalID: 702122041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_73
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1934326a93fab8b4fb078080a69b7a7d
+      internalID: 739344069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_74
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a473f87cf9c4da4c8cad53f78a14665
+      internalID: -950257635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_75
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a02eb738c84b4d92471da3421765b
+      internalID: -298627479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_76
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c855cb9c9bd0e408bd3eb40182e91c
+      internalID: -928162302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_77
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45b9779b4a495a4fa4ab671fa73e0a2
+      internalID: 1421718929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_78
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a9c7bcedb7754bbf286b41ec32792
+      internalID: 1306785502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_79
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1633.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab066270954eac9459c3773a6ae667a0
+      internalID: -1015196332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649a7ed7a5f784246b03c13f7d90b872
+      internalID: 596655901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_81
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16aed166c059f4419da9c70b16a5a8b
+      internalID: -1614528374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_82
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb11511b659ac41ac5a1b19fa00d10
+      internalID: -1078145565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_83
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c1ce018080d024ba3ed37600253273
+      internalID: -935887596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_84
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2465218b671444d9a7194859201b62
+      internalID: -741557264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_85
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eccb6a82a4a1ff4fb1355c022c70b95
+      internalID: -650057041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_86
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88309515451c9c54fb154fc172431cf7
+      internalID: -1614854864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_87
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1cdf188b1a8ad4997cab051d149dba
+      internalID: 306001010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_88
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a743a1241a5db024296262eb7ce8b6e6
+      internalID: -513128602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_89
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e2feea4f604364e884cf9594ad1417
+      internalID: -778971616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_90
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c371b71cd2c64dbfd2a76c9f05d18
+      internalID: -375969160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_91
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be69714d2d500b46a2a38b9a86efeb5
+      internalID: 72467681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_92
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0dc75df91e5a64f867ac8455c471eb
+      internalID: -764682789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_93
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dce9c9221436e44296b92a7c484c546
+      internalID: 397618468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_94
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6884180adf71056439782505e1a00246
+      internalID: -1954455894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_95
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1307.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0802f2f448722c44db2b8203fe280ffc
+      internalID: -400374886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1554837dbd3db647a2bb4ddf8db7d2c
+      internalID: -1783138373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_97
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c3d6b1ae729d48b278f025cd515a1
+      internalID: 1791622726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_98
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7fe919f57d24b428f782b1dc84772e
+      internalID: -1835915232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_99
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae8fa1d03fdbd04db957aa69cc1f6c8
+      internalID: 1197617905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_100
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b92c3ac8002631468dedd217b75e986
+      internalID: 1029218345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_101
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4c35b15851b7d47bbb7731a271c09b
+      internalID: 1082526571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_102
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b3f5217bd1cf845b223ba26f7685a2
+      internalID: -1605747040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_103
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b43d8fdb62624bbb03ba5cb141c73
+      internalID: -976564043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_104
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa63be1a2a6434e9e72cf36843638c
+      internalID: -355793281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_105
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40bd0c144c96134a91944f63ca8df5f
+      internalID: -541278573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_106
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00d3f5af63a50941b52bd6037946d38
+      internalID: -26191142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_107
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01631f170c219a43bc7eb93bbd03fd5
+      internalID: 1865816100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_108
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3024a61e88fcb514a97bcb3111ff8762
+      internalID: 1888475828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_109
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a86ece0402d845bf5402d8cd38585
+      internalID: 976419877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_110
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec089fd4e6352244fab6ad1492765b93
+      internalID: -483603710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_111
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 981.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f06473d917d5c4448f501387068a771
+      internalID: 1926746257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df0d611c1b139a4494d0083b9f8244d
+      internalID: 1380598939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_113
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7dd13c4f48ee443843393d293e5673
+      internalID: 424824405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_114
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5c4a4064851944a68daf0452c52f0
+      internalID: 526169789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_115
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f6c4203e3e4d842bd000b2f999a07d
+      internalID: -1502153574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_116
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42837d7a34813f40934b6be5dedfca3
+      internalID: 346758712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_117
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90453740ff4fe743b7873b75a41e46a
+      internalID: 781472076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_118
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72455f7ae93b23459a41154f81985bd
+      internalID: 215714555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_119
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c957c9b1e1b1b84b88af1693fe8c183
+      internalID: 1871794171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_120
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73685db654ad2147a88fa804dd6f78c
+      internalID: -688973019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_121
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0270ed0668677ea4996b9786a7756d95
+      internalID: -1086677519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_122
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8235d4085ef024aa0efbe5b9b32cbf
+      internalID: -408232797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_123
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e84eaaeb91e8c49ac40665c6a42a3b
+      internalID: 1742577168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_124
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf321cf168b55e145ae7d3052ff073f8
+      internalID: 934099529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_125
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a49e88505b58b74faf31dd0770f5379
+      internalID: -574823384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_126
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6afb54f6e379d248bd80d4ed71001c7
+      internalID: 1112278037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_127
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 655.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77439e7463c858f4385b1c2e0cb372e2
+      internalID: 644404498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710d382a7fb4296478cee7fa8d86b849
+      internalID: 1750396023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_129
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263c75c05807fd548bc3d8fbd405fa1e
+      internalID: 1380045314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_130
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5419adc21611c4ebbb95694be8adf6
+      internalID: -928879265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_131
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d8af0ded0d9544ba4f67309f5479a1
+      internalID: 136439097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_132
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5f7ec7689c94a48aacb91df872d8ce
+      internalID: -1842545133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_133
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b434b588d28f14ea2344a994f427ba
+      internalID: 857928683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_134
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d390ffa765ade7447af47a63c4b46f29
+      internalID: 1573939224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_135
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3369eb64a4da5e479e3418685d374c5
+      internalID: -2041288847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_136
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e914c2824fe24cb5d70db073a0181
+      internalID: 774615010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_137
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d542b4c262e2d4bb564d96c4dbacce
+      internalID: 1432391211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_138
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def4a802794e25d4ca6e10e497f70059
+      internalID: 1077648475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_139
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da0399e60fceae429417229fdde6735
+      internalID: 395461998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_140
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21f90e739d7d1e409fe73b6b4eb5b88
+      internalID: 1022451281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_141
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265e6170c7f6d6449c2dd500cf406c2
+      internalID: -1393822217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_142
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd8f60dcc2ec214ba4b6cbc3930ffd0
+      internalID: -1826549544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_143
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 329.6
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3661bdf4a7b3e643a498ee3f5cc169c
+      internalID: 897071366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe90835854186940b8b18ce12b2d246
+      internalID: 2126145208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_145
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26b612e8bfea2b4cb894a7280375135
+      internalID: 1589718021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_146
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c348334777716c044acbf4af271c7775
+      internalID: 1121441965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_147
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82293c4834bf35b48a5e86d5086bf578
+      internalID: 727739067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_148
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778a3bc74439fb24192dbfe76439703c
+      internalID: 183179052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_149
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49453191d6ba50d4b99039d5d4f76d30
+      internalID: 361741883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_150
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdadf22a282edf44adf3c4cf46987be
+      internalID: 442464623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_151
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d503905f70e1204db8db5f734fdf3a2
+      internalID: -1848173358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_152
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48a3a13a93ba1d40a40ed23e57e345c
+      internalID: -1014706717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_153
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1043f39baddf69046bbf3b2993e3bf8a
+      internalID: -103715072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_154
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7243f73c0c23c584cb4f413978902f4b
+      internalID: -516353184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_155
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e2e90c47639a4b9f811237b3e08db
+      internalID: -2011085158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_156
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb561e865b6d8b408eccdd096ebdc7b
+      internalID: -1206267200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_157
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8e526ba2e28194c96b568aa9381ea3
+      internalID: -1628067250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_158
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b4e8d9365a3d049836940162f369ea
+      internalID: -1874259121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nendat_159
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3.600006
+        width: 364
+        height: 326.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c068e3fdf766bb745bcd8d66dd821a9b
+      internalID: 153777879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nendat_0: 56495526
+      nendat_1: -1103573149
+      nendat_10: 1689933622
+      nendat_100: 1029218345
+      nendat_101: 1082526571
+      nendat_102: -1605747040
+      nendat_103: -976564043
+      nendat_104: -355793281
+      nendat_105: -541278573
+      nendat_106: -26191142
+      nendat_107: 1865816100
+      nendat_108: 1888475828
+      nendat_109: 976419877
+      nendat_11: -769520849
+      nendat_110: -483603710
+      nendat_111: 1926746257
+      nendat_112: 1380598939
+      nendat_113: 424824405
+      nendat_114: 526169789
+      nendat_115: -1502153574
+      nendat_116: 346758712
+      nendat_117: 781472076
+      nendat_118: 215714555
+      nendat_119: 1871794171
+      nendat_12: -327134191
+      nendat_120: -688973019
+      nendat_121: -1086677519
+      nendat_122: -408232797
+      nendat_123: 1742577168
+      nendat_124: 934099529
+      nendat_125: -574823384
+      nendat_126: 1112278037
+      nendat_127: 644404498
+      nendat_128: 1750396023
+      nendat_129: 1380045314
+      nendat_13: -1527648788
+      nendat_130: -928879265
+      nendat_131: 136439097
+      nendat_132: -1842545133
+      nendat_133: 857928683
+      nendat_134: 1573939224
+      nendat_135: -2041288847
+      nendat_136: 774615010
+      nendat_137: 1432391211
+      nendat_138: 1077648475
+      nendat_139: 395461998
+      nendat_14: 1969022510
+      nendat_140: 1022451281
+      nendat_141: -1393822217
+      nendat_142: -1826549544
+      nendat_143: 897071366
+      nendat_144: 2126145208
+      nendat_145: 1589718021
+      nendat_146: 1121441965
+      nendat_147: 727739067
+      nendat_148: 183179052
+      nendat_149: 361741883
+      nendat_15: 974992762
+      nendat_150: 442464623
+      nendat_151: -1848173358
+      nendat_152: -1014706717
+      nendat_153: -103715072
+      nendat_154: -516353184
+      nendat_155: -2011085158
+      nendat_156: -1206267200
+      nendat_157: -1628067250
+      nendat_158: -1874259121
+      nendat_159: 153777879
+      nendat_16: 1871274254
+      nendat_17: -944095040
+      nendat_18: 715827217
+      nendat_19: 356470537
+      nendat_2: 2069529009
+      nendat_20: 1966067279
+      nendat_21: 1568198600
+      nendat_22: -221110499
+      nendat_23: -610761339
+      nendat_24: -6468912
+      nendat_25: -1517321404
+      nendat_26: 1862342414
+      nendat_27: 856366352
+      nendat_28: -575580232
+      nendat_29: 1063297671
+      nendat_3: 1542460502
+      nendat_30: 1324147627
+      nendat_31: 1774453877
+      nendat_32: 2034835631
+      nendat_33: 42176927
+      nendat_34: -26771142
+      nendat_35: -545251128
+      nendat_36: 2017734846
+      nendat_37: 403662454
+      nendat_38: -1784614889
+      nendat_39: 453160944
+      nendat_4: 2014588746
+      nendat_40: 997022008
+      nendat_41: -1046305778
+      nendat_42: -1178256962
+      nendat_43: -124413189
+      nendat_44: -1829479051
+      nendat_45: -392299490
+      nendat_46: -2086579139
+      nendat_47: -1472854956
+      nendat_48: -1846271822
+      nendat_49: 97116421
+      nendat_5: 1175001591
+      nendat_50: -671706886
+      nendat_51: 1568351106
+      nendat_52: 1123505037
+      nendat_53: -1445421515
+      nendat_54: 1699011472
+      nendat_55: -1110122943
+      nendat_56: 949151870
+      nendat_57: 556061790
+      nendat_58: -232158483
+      nendat_59: -304917512
+      nendat_6: 1474998086
+      nendat_60: 55333253
+      nendat_61: -1260395982
+      nendat_62: 335692465
+      nendat_63: 1655387096
+      nendat_64: 681521012
+      nendat_65: -1395902121
+      nendat_66: -595336413
+      nendat_67: -1239368999
+      nendat_68: -833554846
+      nendat_69: 336098638
+      nendat_7: 1952903357
+      nendat_70: 1680659002
+      nendat_71: 1885489005
+      nendat_72: 702122041
+      nendat_73: 739344069
+      nendat_74: -950257635
+      nendat_75: -298627479
+      nendat_76: -928162302
+      nendat_77: 1421718929
+      nendat_78: 1306785502
+      nendat_79: -1015196332
+      nendat_8: -2042594024
+      nendat_80: 596655901
+      nendat_81: -1614528374
+      nendat_82: -1078145565
+      nendat_83: -935887596
+      nendat_84: -741557264
+      nendat_85: -650057041
+      nendat_86: -1614854864
+      nendat_87: 306001010
+      nendat_88: -513128602
+      nendat_89: -778971616
+      nendat_9: 996640815
+      nendat_90: -375969160
+      nendat_91: 72467681
+      nendat_92: -764682789
+      nendat_93: 397618468
+      nendat_94: -1954455894
+      nendat_95: -400374886
+      nendat_96: -1783138373
+      nendat_97: 1791622726
+      nendat_98: -1835915232
+      nendat_99: 1197617905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,411 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.37f1 (340ba89e4c23) revision 3410856'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 7514 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\2022.3.37f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/unitycodegame/Chim bay vuot chuong ngai vat
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59632
+Successfully changed project path to: D:/unitycodegame/Chim bay vuot chuong ngai vat
+D:/unitycodegame/Chim bay vuot chuong ngai vat
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21560] Host "[IP] 192.168.1.7 [Port] 0 [Flags] 2 [Guid] 2051356746 [EditorId] 2051356746 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-BMEQ39U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [21560] Host "[IP] 192.168.1.7 [Port] 0 [Flags] 2 [Guid] 2051356746 [EditorId] 2051356746 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-BMEQ39U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 37.54 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.37f1 (340ba89e4c23)
+[Subsystems] Discovering subsystems at path D:/2022.3.37f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unitycodegame/Chim bay vuot chuong ngai vat/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x164c)
+    Vendor:   ATI
+    VRAM:     3757 MB
+    Driver:   27.20.21030.8001
+Initialize mono
+Mono path[0] = 'D:/2022.3.37f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2022.3.37f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/2022.3.37f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56968
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/2022.3.37f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/2022.3.37f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009743 seconds.
+- Loaded All Assemblies, in  0.646 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 494 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.949 seconds
+Domain Reload Profiling: 1596ms
+	BeginReloadAssembly (284ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (72ms)
+	LoadAllAssembliesAndSetupDomain (222ms)
+		LoadAssemblies (283ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (219ms)
+			TypeCache.Refresh (216ms)
+				TypeCache.ScanAssembly (194ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (950ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (869ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (635ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (155ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.021 seconds
+Refreshing native plugins compatible for Editor in 7.80 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.017 seconds
+Domain Reload Profiling: 2037ms
+	BeginReloadAssembly (160ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (760ms)
+		LoadAssemblies (589ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (261ms)
+			TypeCache.Refresh (221ms)
+				TypeCache.ScanAssembly (193ms)
+			ScanForSourceGeneratedMonoScriptInfo (31ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1018ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (795ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (37ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (89ms)
+			ProcessInitializeOnLoadAttributes (607ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 4.46 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4049 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 72 unused Assets / (245.6 KB). Loaded Objects now: 4507.
+Memory consumption went from 147.5 MB to 147.3 MB.
+Total: 6.546100 ms (FindLiveObjects: 0.482400 ms CreateObjectMapping: 0.295500 ms MarkObjects: 5.328000 ms  DeleteObjects: 0.438300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 206008.756497 seconds.
+  path: Assets/sprites/torrant/nendat.jpg
+  artifactKey: Guid(1f2fb8a78b3aaa040bc331ace120bb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat.jpg using Guid(1f2fb8a78b3aaa040bc331ace120bb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ec764840e0ec28760a4d314795d6c43c') in 0.755931 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 162
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/sprites/torrant/nendat_47.asset
+  artifactKey: Guid(f31fc408b4e03be4492831b3c8d1ad19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_47.asset using Guid(f31fc408b4e03be4492831b3c8d1ad19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8754243c3a9868ac4dec3a94083d0aa1') in 0.029459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/sprites/torrant/nendat_20.asset
+  artifactKey: Guid(b13dfc9deb031f849a0595bf4c49fa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_20.asset using Guid(b13dfc9deb031f849a0595bf4c49fa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bdffec18e53b1fde35e7e0d5743e4b68') in 0.019810 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/sprites/torrant/nendat_41.asset
+  artifactKey: Guid(3c7ed01872209384f94260de1a96858e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_41.asset using Guid(3c7ed01872209384f94260de1a96858e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b29b58c51317cccd4ee64fb6a492bc4c') in 0.019903 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/sprites/torrant/nendat_21.asset
+  artifactKey: Guid(c14bac3a27c202f458097aeb7cb63155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_21.asset using Guid(c14bac3a27c202f458097aeb7cb63155) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a963c513842ae81e1aa5fc153fd3748c') in 0.021855 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/sprites/torrant/nendat_8.asset
+  artifactKey: Guid(a872215e771eed340af49543ecd02fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_8.asset using Guid(a872215e771eed340af49543ecd02fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '76dc18d331f5a34ec46b235e120bf0ec') in 0.018759 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/sprites/torrant/nendat_34.asset
+  artifactKey: Guid(0cd138476c2bc6b46bf7e889da9ce963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_34.asset using Guid(0cd138476c2bc6b46bf7e889da9ce963) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'fc116cb0299ad41c5b3c7416cf5c0069') in 0.020531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/sprites/torrant/nendat_39.asset
+  artifactKey: Guid(2dbbce586384d814e928cc1e45f20196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_39.asset using Guid(2dbbce586384d814e928cc1e45f20196) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ecf1f29ad529828bef7eacb72fd3cfeb') in 0.026829 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/sprites/torrant/nendat_2.asset
+  artifactKey: Guid(6f8e680b42ee27842a1678fe7aff09eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_2.asset using Guid(6f8e680b42ee27842a1678fe7aff09eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a3d8276c191b75aa0f88b63ffa9ca02d') in 0.030489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 9.314519 seconds.
+  path: Assets/sprites/torrant/nendat_0.asset
+  artifactKey: Guid(634b81aa20970b5468abf86e93011862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_0.asset using Guid(634b81aa20970b5468abf86e93011862) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '25c7bce5c7da14203fcbb57e9369ae13') in 0.022711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/sprites/torrant/nendat_33.asset
+  artifactKey: Guid(8051545a188901b4ea40336fa8c369a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_33.asset using Guid(8051545a188901b4ea40336fa8c369a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '77674fd31726eda8670793fc21d21feb') in 0.023295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/sprites/torrant/nendat_14.asset
+  artifactKey: Guid(32b9c2b8f391a464cb9e922140644958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_14.asset using Guid(32b9c2b8f391a464cb9e922140644958) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a15a6065e5e4c74a184112d32400f0ff') in 0.020669 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/sprites/torrant/nendat_11.asset
+  artifactKey: Guid(f6425ef7a4b21654f8ee701e4d5de7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_11.asset using Guid(f6425ef7a4b21654f8ee701e4d5de7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1eb357c2b467c9f0d74758b7b275ab8f') in 0.020572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/sprites/torrant/nendat_7.asset
+  artifactKey: Guid(a5cb05ef364ccb7478290d1ae473e320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_7.asset using Guid(a5cb05ef364ccb7478290d1ae473e320) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '762247c5e85e98dffdd036e6a6bbe496') in 0.021264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/sprites/torrant/nendat_37.asset
+  artifactKey: Guid(e712205e3ded98e4fac3d89dfc72ba86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_37.asset using Guid(e712205e3ded98e4fac3d89dfc72ba86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '86ab0c3c8b2cddd6162249656f83a1fd') in 0.021577 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/sprites/torrant/nendat_4.asset
+  artifactKey: Guid(08959e88a26f3e043adef71abffadbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_4.asset using Guid(08959e88a26f3e043adef71abffadbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1711ecfc9a7dd315b64154501e41abb0') in 0.021651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/sprites/torrant/nendat_23.asset
+  artifactKey: Guid(63a3a8214e4ef5f44b5a04f32daaf425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_23.asset using Guid(63a3a8214e4ef5f44b5a04f32daaf425) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '684c3052f38e0504cb6a656e2000631c') in 0.022550 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/sprites/torrant/nendat_24.asset
+  artifactKey: Guid(8c15bac136c38a4419c9e7f6fa725be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_24.asset using Guid(8c15bac136c38a4419c9e7f6fa725be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8a6a9caf7dd083b9f9cc570b79004645') in 0.020528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/sprites/torrant/nendat_15.asset
+  artifactKey: Guid(40c88d1944e1e3843895855b35330f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_15.asset using Guid(40c88d1944e1e3843895855b35330f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7a75a41a8853da0468f94a92de7abfbe') in 0.019208 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/sprites/torrant/nendat_40.asset
+  artifactKey: Guid(c9144bdddf5d1f540a9819e726eafbfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_40.asset using Guid(c9144bdddf5d1f540a9819e726eafbfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8bf22af30ee2260057b2f6c703e953ed') in 0.022447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/sprites/torrant/nendat_47.asset
+  artifactKey: Guid(f31fc408b4e03be4492831b3c8d1ad19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_47.asset using Guid(f31fc408b4e03be4492831b3c8d1ad19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd0cebd8071b293a36f92ab96ebbe6c21') in 0.021836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/sprites/torrant/nendat_45.asset
+  artifactKey: Guid(b935c0ef787e9704db89390b5f31efe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_45.asset using Guid(b935c0ef787e9704db89390b5f31efe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3d657a566f34c4a306eabe3369106877') in 0.019244 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/sprites/torrant/nendat_26.asset
+  artifactKey: Guid(5a6390442ba258c4e806c5790f038bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_26.asset using Guid(5a6390442ba258c4e806c5790f038bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c4786aee88ed9f445e6fbd72be35d768') in 0.021133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/sprites/torrant/nendat_29.asset
+  artifactKey: Guid(d316f9e60ee9da142baeb55c3504760b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_29.asset using Guid(d316f9e60ee9da142baeb55c3504760b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8287550860c7062912421d7e404f51af') in 0.018684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000840 seconds.
+  path: Assets/sprites/torrant/nendat_39.asset
+  artifactKey: Guid(2dbbce586384d814e928cc1e45f20196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/torrant/nendat_39.asset using Guid(2dbbce586384d814e928cc1e45f20196) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3f4adb4a5f36d729f21b6ae8f28f7374') in 0.021080 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
